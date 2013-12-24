@@ -1,0 +1,47 @@
+/* * {
+	border: 1px dashed blue;
+} */
+
+#pendule {
+	margin: auto;
+	text-align: center;
+}
+        
+#clockContainer {
+	width: 110px;
+	margin: auto;
+	font-family: helvetica;
+	font-weight: 200;
+} 
+        
+#bottomBox {
+	background-color: #E4F5F6;
+	border-radius: 5px;
+	padding: 0px 10px 6px 10px;
+	width: 280px;
+	height: 35px;
+	margin: auto;
+	text-align: center;
+	font-family: helvetica;
+	font-weight: 300;
+	font-size: 130%;
+}
+
+table {
+	border: none;
+	margin-left: 30px;
+}
+
+tr {
+	vertical-align: bottom;
+	height: 33px;
+}
+
+#disclaimer {
+	width: 450px;
+	margin: auto;
+	font-size: 80%;
+	font-family: helvetica;
+	font-weight: 200;
+	text-align: center;
+}
